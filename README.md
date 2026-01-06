@@ -8,7 +8,11 @@
 > **A tecnologia a favor do movimento.** Visualize a execução perfeita de exercícios terapêuticos e funcionais em qualquer lugar, utilizando apenas a câmera do seu celular.
 
 ---
+##  Demonstração
 
+👉 **Acesse o projeto online agora:** [**fisioar.netlify.app**](https://fisioar.netlify.app/)
+
+---
 ##  Sobre o Projeto
 
 O **FisioAR** é uma aplicação web inovadora que utiliza **Realidade Aumentada (WebAR)** para auxiliar pacientes e atletas na execução correta de movimentos. 
