@@ -12,6 +12,7 @@
 
 👉 **Acesse o projeto online agora:** [**fisioar.netlify.app**](https://fisioar.netlify.app/)
 
+![Preview do FisioAR](/assets/image.jpg)
 ---
 ##  Sobre o Projeto
 
