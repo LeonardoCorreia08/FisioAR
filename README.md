@@ -11,6 +11,7 @@
 ##  Demonstração
 
 👉 **Acesse o projeto online agora:** [**fisioar.netlify.app**](https://fisioar.netlify.app/)
+ou [**Github**](https://leonardocorreia08.github.io/FisioAR/)
 
 ![Preview do FisioAR](/assets/image.jpg)
 ---
